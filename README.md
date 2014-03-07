@@ -10,7 +10,8 @@ To try to install put the pipinstaller folder into your own C:/users/your_user/.
 
 Require to restart two times Qgis.
 
-If setuptools it's just present on your QGis distribution, probably doeasn't run properly.
+If setuptools it's just present on your QGis distribution, probably doesn't run properly.
+
 You can test if setuptools is present opening QGis 2 and calling on python console:
 import easy_install
 
